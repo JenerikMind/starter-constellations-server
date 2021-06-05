@@ -22,13 +22,6 @@
       "quadrant": "NQ3"
     },
     {
-      "id": "KGQIwSq",
-      "name": "Eridanus",
-      "meaning": "River",
-      "starsWithPlanets": 26,
-      "quadrant": "SQ1"
-    },
-    {
       "id": "zvBpkNq",
       "name": "Gemini",
       "meaning": "Twins",
@@ -97,6 +90,20 @@
       "meaning": "Sails",
       "starsWithPlanets": 7,
       "quadrant": "SQ2"
+    },
+    {
+      "name": "Eridanus",
+      "meaning": "River",
+      "starsWithPlanets": 26,
+      "quadrant": "NQ2",
+      "id": "gq52rOM"
+    },
+    {
+      "name": "Invincible",
+      "meaning": "Indestructible",
+      "startsWithPlanets": 100,
+      "quadrant": "JM3",
+      "id": "ap71rFY"
     }
   ]
 }

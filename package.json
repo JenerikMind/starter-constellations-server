@@ -1,7 +1,7 @@
 {
   "name": "starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "This server is intended to be run for some checkpoints in the Thinkful curriculum. If you have trouble getting the server to run, reach out to your mentor.",
   "main": "index.js",
   "scripts": {
     "start": "json-server --watch --port=5000 db.json"
@@ -10,6 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
     "json-server": "0.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thinkful-Ed/starter-constellations-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Thinkful-Ed/starter-constellations-server/issues"
+  },
+  "homepage": "https://github.com/Thinkful-Ed/starter-constellations-server#readme",
+  "devDependencies": {}
 }
